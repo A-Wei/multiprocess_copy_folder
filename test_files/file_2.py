@@ -1,2 +1,0 @@
-# Some comments
-import os
